@@ -27,7 +27,6 @@ initial begin
     $dumpvars(0, tb);
 end
 
-// Stimulus
 initial begin
 
     reset = 1;
